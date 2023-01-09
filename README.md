@@ -1,9 +1,10 @@
-# T20-world-Cup-2022-Analysis
-## Analysed T20 World cup 2022 
-##Tech stacks: Python
-objective
-process
-##Insights:
+# T20-world-Cup-2022-Analysis using Python
+
+## Objective
+- Every sports event generates a lot of data which we can use to analyze the performance of players, teams, and many highlights of the game.ICC T20 World Cup 2022 has generated a lot of data that i have use to summarize the event. and that i have analyse data using python.
+
+
+## Insights:
 - England won the most number of matches and they are the world cup winners.
 - Virat Kohli scored highest in the most number of matches.
 - Sam Curran was the best bowler in the most number of matches.
